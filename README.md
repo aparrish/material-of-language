@@ -1,7 +1,11 @@
 # Material of Language
 
-Notes and notebooks for [Material of
-Language](http://mol.decontextualize.com/).
+Notes and notebooks for [Material of Language](http://mol.decontextualize.com/).
+
+**Please note that many of these notebooks do not display correctly in GitHub's
+preview** for some reason. (In particular, the "Concrete compositions" and
+"Letters as numbers" notebooks are significantly truncated.) Please download
+these and view them locally! (Binder build coming soon.)
 
 * [Letters as numbers](letters-as-numbers.ipynb): How text is represented
   (Unicode and other encodings)
