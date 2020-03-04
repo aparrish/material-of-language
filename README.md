@@ -15,4 +15,8 @@ these and view them locally! (Binder build coming soon.)
   custom `range`s
 * [Concrete compositions in HTML](concrete-compositions-html.ipynb): CSS
   absolute positioning and Python to create procedural layouts
+* [Asemic writing with Flat](flat-asemic-writing.ipynb): Basic
+  [Flat](https://xxyxyz.org/flat) tutorial plus some simple generative
+  techniques for producing asemic writing;
+  [Bezmerizing](https://github.com/aparrish/bezmerizing/) in use
 
