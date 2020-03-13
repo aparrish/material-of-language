@@ -1,0 +1,8 @@
+name: material-of-language
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - https://github.com/aparrish/bezmerizing/archive/master.zip
