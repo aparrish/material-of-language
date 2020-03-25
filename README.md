@@ -2,10 +2,16 @@
 
 Notes and notebooks for [Material of Language](http://mol.decontextualize.com/).
 
+If you want to play around with the notebooks or can't get the dependencies
+working on your machines, [the repository is available on
+Binder](https://mybinder.org/v2/gh/aparrish/material-of-language/79996cd2c39bd58e79ee7b2f5d5c22bff13581c6).
+Everything should work there, just make sure to download your modified
+notebooks and output to your own computer when you're done.
+
 **Please note that many of these notebooks do not display correctly in GitHub's
 preview** for some reason. (In particular, the "Concrete compositions" and
 "Letters as numbers" notebooks are significantly truncated.) Please download
-these and view them locally! (Binder build coming soon.)
+these and view them locally!
 
 * [Letters as numbers](letters-as-numbers.ipynb): How text is represented
   (Unicode and other encodings)
@@ -19,4 +25,6 @@ these and view them locally! (Binder build coming soon.)
   [Flat](https://xxyxyz.org/flat) tutorial plus some simple generative
   techniques for producing asemic writing;
   [Bezmerizing](https://github.com/aparrish/bezmerizing/) in use
+* [Lines and asemic writing](lines-and-asemic.ipynb)
+* [Handwriting remix](handwriting-remix.ipynb)
 
