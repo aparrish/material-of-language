@@ -25,6 +25,10 @@ these and view them locally!
   [Flat](https://xxyxyz.org/flat) tutorial plus some simple generative
   techniques for producing asemic writing;
   [Bezmerizing](https://github.com/aparrish/bezmerizing/) in use
-* [Lines and asemic writing](lines-and-asemic.ipynb)
-* [Handwriting remix](handwriting-remix.ipynb)
+* [Lines and asemic writing](lines-and-asemic.ipynb): Another take on using
+  polylines, Catmull-Rom splines and Flat to make asemic characters
+* [Handwriting remix](handwriting-remix.ipynb): Loading and manipulating data
+  from the [Char74K dataset](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/)
+* [K-means glyphs](kmeans-glyphs.ipynb): Using K-means clustering to generate
+  evenly-spaced random points (and then use those points to make asemic glyphs)
 
