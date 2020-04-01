@@ -4,7 +4,7 @@ Notes and notebooks for [Material of Language](http://mol.decontextualize.com/).
 
 If you want to play around with the notebooks or can't get the dependencies
 working on your machines, [the repository is available on
-Binder](https://mybinder.org/v2/gh/aparrish/material-of-language/79996cd2c39bd58e79ee7b2f5d5c22bff13581c6).
+Binder](https://mybinder.org/v2/gh/aparrish/material-of-language/master).
 Everything should work there, just make sure to download your modified
 notebooks and output to your own computer when you're done.
 
