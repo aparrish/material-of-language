@@ -47,3 +47,16 @@ Fonts as data:
 * [Quick Hershey text](quick-hershey-text.ipynb): Loading and displaying
   Hershey font data as paths with Flat
 
+Letterforms and machine learning (Colab notebooks):
+
+* [Sampling from Google's SVG VAE](https://colab.research.google.com/drive/1CR5L6eKoiy7M-nt4PLZDZ7xVPHKgzRlG)
+* Training DCGAN on glyph images: [part
+  1](https://colab.research.google.com/drive/19BR0cccrRIIiWkzWiN3Mg8CCEF7nbli9),
+  [part
+  2](https://colab.research.google.com/drive/1K5H6FqLNfUnkhkFGdFjnBuhgKEQcBldq)
+
+Interactivity and animation:
+
+* [Flat with interactive
+  widgets](https://colab.research.google.com/drive/1K5H6FqLNfUnkhkFGdFjnBuhgKEQcBldq)
+

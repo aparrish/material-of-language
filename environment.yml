@@ -4,5 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - cairosvg
+  - ipywidgets
   - pip:
     - https://github.com/aparrish/bezmerizing/archive/master.zip
