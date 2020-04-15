@@ -57,6 +57,5 @@ Letterforms and machine learning (Colab notebooks):
 
 Interactivity and animation:
 
-* [Flat with interactive
-  widgets](https://colab.research.google.com/drive/1K5H6FqLNfUnkhkFGdFjnBuhgKEQcBldq)
+* [Flat with interactive widgets](interactive-widgets.ipynb)
 
