@@ -6,5 +6,6 @@ dependencies:
   - numpy
   - cairosvg
   - ipywidgets
+  - ffmpeg
   - pip:
     - https://github.com/aparrish/bezmerizing/archive/master.zip

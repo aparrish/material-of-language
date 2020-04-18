@@ -58,4 +58,5 @@ Letterforms and machine learning (Colab notebooks):
 Interactivity and animation:
 
 * [Flat with interactive widgets](interactive-widgets.ipynb)
+* [Creating animations with Flat and ffmpeg](creating-animations.ipynb)
 
