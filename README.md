@@ -62,4 +62,4 @@ Interactivity and animation:
 
 Deployment:
 
-* [Standalone scripts and web apps with Glitch]( standalone-and-webapps.ipynb)
+* [Standalone scripts and web apps with Glitch](standalone-and-webapps.ipynb)
