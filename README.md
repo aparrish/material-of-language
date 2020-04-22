@@ -60,3 +60,6 @@ Interactivity and animation:
 * [Flat with interactive widgets](interactive-widgets.ipynb)
 * [Creating animations with Flat and ffmpeg](creating-animations.ipynb)
 
+Deployment:
+
+* [Standalone scripts and web apps with Glitch]( standalone-and-webapps.ipynb)
